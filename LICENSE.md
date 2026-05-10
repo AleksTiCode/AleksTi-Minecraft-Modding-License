@@ -1,19 +1,21 @@
-# AlekstTi Minecraft Modding License (ATMML)
-**Version 1.1**
+# Aleksti Minecraft Modding License (ATMML)
+**Version 1.3**
 
 *The text of this license is open-source. Any developer may use the ATMML for their own projects by simply attaching this text to their mod.*
 
-This license defines the rules for using, modifying, and distributing the modification (hereinafter referred to as the "Mod") created by its developer (hereinafter referred to as the "Author"). By using, downloading, or modifying the Mod, you agree to the terms of this license. This license also requires compliance with the current Minecraft End User License Agreement (Minecraft EULA).
+This license defines the rules for using, modifying, and distributing the modification (hereinafter referred to as the "Mod") created by its developer (hereinafter referred to as the "Author"). By using, downloading, or modifying the Mod, you agree to the terms of this license.
 
-### 1. Source Code & Forks
+### 1. Source Code & Forks (Strict Copyleft)
 The source code of the Mod is open for study and modification.
-*   **Forks:** You have the right to create your own modifications based on the Mod ("forks"). When publishing a fork, you **must** explicitly credit the original Mod and the Author, and provide a direct link to the official Mod page.
-*   **Code Snippets:** You may freely use small code snippets (individual classes, methods, or utilities) in your independent projects without mandatory attribution, provided they do not constitute a core or unique mechanic of the Mod.
+*   **Viral License Requirement:** Any modifications, forks, or derivative works based on the Mod **MUST** be published under the exact same ATMML license. You may not re-license a fork under MIT, GPL, or any other license.
+*   **Open Source Requirement:** Because any fork must use the ATMML, the source code of your fork must also remain publicly available.
+*   **Attribution:** When publishing a fork, you **must** explicitly credit the original Mod and the Author, providing a direct link to the official Mod page.
+*   **Code Snippets:** You may freely use small code snippets (individual generic classes or utility methods) in your independent projects without triggering this viral license effect, provided they do not constitute a core or unique mechanic of the Mod.
 
-### 2. Assets
-All artistic materials of the Mod (textures, 3D models, sounds, animations, logos) are protected by copyright (All Rights Reserved).
-*   **Within Forks:** Developers of forks (according to Section 1) **have the right** to use the original Assets of the Mod, but exclusively within the fork itself.
-*   **In Other Projects:** It is prohibited to "rip" or extract Assets from the Mod for use in completely different, independent mods or games without direct written permission from the Author.
+### 2. Assets & Unique Features
+All artistic materials (textures, 3D models, sounds, animations, logos) and unique codebase mechanics of the Mod are protected.
+*   **Within Forks:** Developers of forks may use the original Assets and code exclusively within their ATMML-licensed fork.
+*   **In Other Projects:** It is strictly prohibited to "rip" or extract Assets or core code mechanics from the Mod for use in completely different, independent mods (which are not ATMML-licensed forks) without direct written permission from the Author.
 
 ### 3. Modpacks
 The Author fully supports the inclusion of the Mod in any public or private modpacks. You may freely add the Mod to modpacks on platforms such as Modrinth, CurseForge, and others, provided that the modpack itself is distributed for free.

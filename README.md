@@ -1,4 +1,4 @@
-# Aleksti Minecraft Modding License (ATMML)
+# AlekstTi Minecraft Modding License (ATMML)
 **Version 1.1**
 
 *The text of this license is open-source. Any developer may use the ATMML for their own projects by simply attaching this text to their mod.*
